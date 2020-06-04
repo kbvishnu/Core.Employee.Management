@@ -1,5 +1,5 @@
-# EmployeeManagementAPI
-Sample application developed in  VS Code
+# Core.EmployeeManagement Application
+Sample application developed in  VS Code using .NET Core, EF, AutoMapper, SQL Server, XUnit And Moq for testing.
 
 Employee Web Application - uploads the employee xml file for processing
 
