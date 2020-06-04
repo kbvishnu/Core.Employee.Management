@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Corp.Employee.Web/bin/Debug/netcoreapp3.1/Corp.Employee.Web.dll",
+            "program": "${workspaceFolder}/Corp.EmployeeManagement.Web/bin/Debug/netcoreapp3.1/Corp.Employee.Web.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Corp.Employee.Web/",
             "stopAtEntry": false,
@@ -21,7 +21,7 @@
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
             "sourceFileMap": {
-                "/Views": "${workspaceFolder}/Corp.Employee.Web/Views"
+                "/Views": "${workspaceFolder}/Corp.EmployeeManagement.Web/Views"
             }
         },
         {

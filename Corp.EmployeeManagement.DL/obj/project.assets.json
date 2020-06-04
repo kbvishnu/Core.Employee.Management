@@ -4922,11 +4922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
+      "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
       "projectName": "Corp.EmployeeManagement.DL",
-      "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
+      "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
       "packagesPath": "C:\\Users\\Vishnu\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\obj\\",
+      "outputPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

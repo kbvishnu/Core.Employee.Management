@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj": {}
+    "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj": {
+    "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj",
+        "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj",
         "projectName": "Corp.EmployeeManagement.BL",
-        "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj",
+        "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.BL\\Corp.EmployeeManagement.BL.csproj",
         "packagesPath": "C:\\Users\\Vishnu\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.BL\\obj\\",
+        "outputPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
-                "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj"
+              "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
+                "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
+    "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
+        "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
         "projectName": "Corp.EmployeeManagement.DL",
-        "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
+        "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj",
         "packagesPath": "C:\\Users\\Vishnu\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\obj\\",
+        "outputPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
