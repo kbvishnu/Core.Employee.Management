@@ -1,0 +1,8 @@
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\bin\Debug\netcoreapp3.1\Corp.Employee.BL.deps.json
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\bin\Debug\netcoreapp3.1\Corp.Employee.BL.dll
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\bin\Debug\netcoreapp3.1\Corp.Employee.BL.pdb
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\obj\Debug\netcoreapp3.1\Corp.Employee.BL.csprojAssemblyReference.cache
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\obj\Debug\netcoreapp3.1\Corp.Employee.BL.AssemblyInfoInputs.cache
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\obj\Debug\netcoreapp3.1\Corp.Employee.BL.AssemblyInfo.cs
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\obj\Debug\netcoreapp3.1\Corp.Employee.BL.dll
+D:\Programming\GIT\CORP\Employee\Corp.Employee.BL\obj\Debug\netcoreapp3.1\Corp.Employee.BL.pdb

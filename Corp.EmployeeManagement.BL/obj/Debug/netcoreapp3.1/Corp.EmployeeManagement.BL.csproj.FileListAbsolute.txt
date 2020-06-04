@@ -1,0 +1,11 @@
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\bin\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.deps.json
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\bin\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.dll
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\bin\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.pdb
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.csprojAssemblyReference.cache
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.AssemblyInfoInputs.cache
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.AssemblyInfo.cs
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.dll
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.pdb
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\bin\Debug\netcoreapp3.1\Corp.EmployeeManagement.DL.dll
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\bin\Debug\netcoreapp3.1\Corp.EmployeeManagement.DL.pdb
+D:\Programming\GIT\CORP\Employee\Corp.EmployeeManagement.BL\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.BL.csproj.CopyComplete
