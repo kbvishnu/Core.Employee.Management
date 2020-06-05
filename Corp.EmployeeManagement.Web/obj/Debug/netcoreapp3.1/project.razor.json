@@ -20521,8 +20521,18 @@
   "RootNamespace": "Corp.EmployeeManagement.Web",
   "Documents": [
     {
+      "FilePath": "d:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.Web\\Views\\Shared\\_searchArea.cshtml",
+      "TargetPath": "Views\\Shared\\_searchArea.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.Web\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.Web\\Views\\Shared\\_viewArea.cshtml",
+      "TargetPath": "Views\\Shared\\_viewArea.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20543,6 +20553,11 @@
     {
       "FilePath": "d:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.Web\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.Web\\Views\\Shared\\_importArea.cshtml",
+      "TargetPath": "Views\\Shared\\_importArea.cshtml",
       "FileKind": "mvc"
     },
     {

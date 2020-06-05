@@ -70,3 +70,6 @@ D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj
 D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.Web.csproj.CopyComplete
 D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.Web.dll
 D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Corp.EmployeeManagement.Web.pdb
+D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_importArea.cshtml.g.cs
+D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_searchArea.cshtml.g.cs
+D:\Programming\GIT\CORP\Core.Employee.Management\Corp.EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_viewArea.cshtml.g.cs
