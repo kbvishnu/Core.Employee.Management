@@ -8369,11 +8369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Employee\\Tests\\Corp.EmployeeManagement.DL.Tests\\Corp.EmployeeManagement.DL.Tests.csproj",
+      "projectUniqueName": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Tests\\Corp.EmployeeManagement.DL.Tests\\Corp.EmployeeManagement.DL.Tests.csproj",
       "projectName": "Corp.EmployeeManagement.DL.Tests",
-      "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Tests\\Corp.EmployeeManagement.DL.Tests\\Corp.EmployeeManagement.DL.Tests.csproj",
+      "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Tests\\Corp.EmployeeManagement.DL.Tests\\Corp.EmployeeManagement.DL.Tests.csproj",
       "packagesPath": "C:\\Users\\Vishnu\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\GIT\\CORP\\Employee\\Tests\\Corp.EmployeeManagement.DL.Tests\\obj\\",
+      "outputPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Tests\\Corp.EmployeeManagement.DL.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8394,8 +8394,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
-              "projectPath": "D:\\Programming\\GIT\\CORP\\Employee\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj"
+            "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj": {
+              "projectPath": "D:\\Programming\\GIT\\CORP\\Core.Employee.Management\\Corp.EmployeeManagement.DL\\Corp.EmployeeManagement.DL.csproj"
             }
           }
         }
